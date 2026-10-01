@@ -1,0 +1,13 @@
+----- STOCK PORTFOLIO -----
+
+Stock: AAPL
+Quantity: 4
+Price: $180
+Investment: $720
+--------------------------
+Stock: GOOGL
+Quantity: 2
+Price: $150
+Investment: $300
+--------------------------
+Total Investment: $1020
